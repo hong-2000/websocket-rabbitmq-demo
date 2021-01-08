@@ -1,0 +1,12 @@
+Header模式
+
+header模式与routing不同的地方在于，header模式取消routingkey，使用header中的 key/value（键值对）匹配队列。
+案例：
+根据用户的通知设置去通知用户，设置接收Email的用户只接收Email，设置接收sms的用户只接收sms，设置两种通知类型都接收的则两种通知都有效。
+
+
+@author:hong-2000
+1.交换机类型为Header
+2.MapTable，键值对
+3.绑定队列时路由key为“”，在后面加一个键值对的参数
+4.AMQP.BasicProperties.Builder
