@@ -1,4 +1,4 @@
-package cn.zqhblog.clientnoparam.service;
+package com.demo.clientnoparam.service;
 
 /**
  * @author hong-2000

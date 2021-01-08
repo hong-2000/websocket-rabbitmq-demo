@@ -1,4 +1,4 @@
-package cn.zqhblog.clientnoparam.config;
+package com.demo.clientnoparam.config;
 
 import lombok.extern.slf4j.Slf4j;
 import org.java_websocket.client.WebSocketClient;

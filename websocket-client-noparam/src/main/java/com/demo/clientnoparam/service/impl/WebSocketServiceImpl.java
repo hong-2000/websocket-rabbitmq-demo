@@ -1,6 +1,6 @@
-package cn.zqhblog.clientnoparam.service.impl;
+package com.demo.clientnoparam.service.impl;
 
-import cn.zqhblog.clientnoparam.service.WebSocketService;
+import com.demo.clientnoparam.service.WebSocketService;
 import org.java_websocket.client.WebSocketClient;
 import org.springframework.stereotype.Service;
 

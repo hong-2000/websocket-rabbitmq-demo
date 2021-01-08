@@ -1,6 +1,6 @@
-package cn.zqhblog.clientnoparam.controller;
+package com.demo.clientnoparam.controller;
 
-import cn.zqhblog.clientnoparam.service.WebSocketService;
+import com.demo.clientnoparam.service.WebSocketService;
 import org.hibernate.validator.constraints.Length;
 import org.springframework.lang.NonNull;
 import org.springframework.web.bind.annotation.*;
