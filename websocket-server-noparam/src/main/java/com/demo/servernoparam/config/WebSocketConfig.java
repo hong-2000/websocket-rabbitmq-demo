@@ -5,7 +5,7 @@ import org.springframework.stereotype.Component;
 import org.springframework.web.socket.server.standard.ServerEndpointExporter;
 
 /**
- * @author zhaoqinghong
+ * @author hong-2000
  * @version 1.0.0
  * @description WebSocketConfig配置类
  * @create 2020/11/17 14:00
